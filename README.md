@@ -16,5 +16,4 @@
 
 <p align="left">
   <img src="Code_Fellows_Presentation_day_page_4.png" width="75%"/>
-  <img src="9586(1of1).jpg" width="20%"/>
 </p>
