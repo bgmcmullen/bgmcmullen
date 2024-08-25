@@ -8,12 +8,3 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=bgmcmullen&left_color=green&right_color=red" width="110px" alt="visitor badge"/>
 </p>
 
-
-![Education](Code_Fellows_Presentation_day_page_2.png)
-<p align="left">
-  <img src="9391(1of1).jpg" width="40%"/>
-</p>
-
-<p align="left">
-  <img src="Code_Fellows_Presentation_day_page_4.png" width="75%"/>
-</p>
