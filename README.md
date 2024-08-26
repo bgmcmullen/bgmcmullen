@@ -1,4 +1,4 @@
-![Header](Brendan.jpg.png)
+![Header](Brendan.jpg)
 
 <p align="left">
   <a href="https://linkedin.com/in/brendangmcmullen/" target="_blank" rel="noopenernoreferrer"><img class="linkedin-icon" src="icons8-linkedin-48.png">&nbsp;&nbsp;</a>
