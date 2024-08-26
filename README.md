@@ -9,10 +9,13 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=bgmcmullen&left_color=green&right_color=red" width="110px" alt="visitor badge"/>
 </p>
-<p>
-Software Developer with a PhD in Music Composition and experience teaching at an Ivy League
-University. Skilled in JavaScript, React.js, Node.js, and full-stack development, with additional
-expertise in machine learning for music composition and audio. Passionate about solving problems
-with creative solutions and eager to contribute to a collaborative and innovative team.
-</p>
+
+## SUMMARY
+Software Developer with a PhD in Music Composition and a previous career teaching music theory. Passionate about solving problems with creative solutions and eager to contribute to a collaborative team.
+## SKILLS
+### Languages, Databases and Libraries: 
+JavaScript, TypeScript, Python, , C#, C++, Java, Python, React, React Native, Node.js, PostgreSQL, MongoDB, HTML5, CSS3
+### Technologies: 
+VS Code, Visual Studio, Git, GitHub, Netlify, Render.com, AWS, Jest
+
 
