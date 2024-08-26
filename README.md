@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  [![Visitor Badge](https://img.shields.io/badge/visitors-1234-red)](https://github.com/bgmcmullen)
+  <img src="https://komarev.com/ghpvc/?username=bgmcmullen&color=red" width="110px" alt="visitor badge"/>
 </p>
 <p>
 Software Developer with a PhD in Music Composition and experience teaching at an Ivy League
