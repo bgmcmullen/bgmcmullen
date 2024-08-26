@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=bgmcmullen&left_color=green&right_color=red" width="110px" alt="visitor badge"/>
+  <img src="https://img.shields.io/badge/visitors-1234-red" width="110px" alt="visitor badge"/>
 </p>
 <p>
 Software Developer with a PhD in Music Composition and experience teaching at an Ivy League
