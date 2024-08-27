@@ -38,4 +38,4 @@ VS Code, Visual Studio, Git, GitHub, Netlify, Render.com, AWS, Jest
 ### [AI-Health-Project](https://github.com/bgmcmullen/AI-Health-Project)
 *Status: Early Development*
 
-I’m currently part of a team developing an AI platform that helps users stay mindful of the foods and drinks they consume. Users can upload ingredients in the form of text or images and receive feedback from the AI on the healthiness of their choices.
+I’m currently part of a team developing an AI platform that helps users stay mindful of the foods and drinks they consume. Users will be able upload ingredients in the form of text or images and receive feedback from the AI on the healthiness of their choices.
