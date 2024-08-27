@@ -18,4 +18,12 @@ JavaScript, TypeScript, Python, , C#, C++, Java, Python, React, React Native, No
 ### Technologies: 
 VS Code, Visual Studio, Git, GitHub, Netlify, Render.com, AWS, Jest
 
+### Featured Projects
+VolunteerBridge – [Frontend Source Code](https://github.com/TechSpark-Solutions/VolunteerBridgeApp) | [Backend Source Code](https://github.com/TechSpark-Solutions/VolunteerBridge-AuthAPI)
+•	A mobile app developed by a collaborative team to connect volunteers with nonprofits.
+•	Implements secure login with biometric identification, enhancing user data protection.
+•	Technologies used: React Native, Expo, Node, and PostgreSQL
+
+
+
 
