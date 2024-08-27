@@ -18,12 +18,18 @@ JavaScript, TypeScript, Python, , C#, C++, Java, Python, React, React Native, No
 ### Technologies: 
 VS Code, Visual Studio, Git, GitHub, Netlify, Render.com, AWS, Jest
 
-### Featured Projects
-VolunteerBridge – [Frontend Source Code](https://github.com/TechSpark-Solutions/VolunteerBridgeApp) | [Backend Source Code](https://github.com/TechSpark-Solutions/VolunteerBridge-AuthAPI)
-•	A mobile app developed by a collaborative team to connect volunteers with nonprofits.
-•	Implements secure login with biometric identification, enhancing user data protection.
+## Featured Projects
+
+### VolunteerBridge – [Frontend Source Code](https://github.com/TechSpark-Solutions/VolunteerBridgeApp) | [Backend Source Code](https://github.com/TechSpark-Solutions/VolunteerBridge-AuthAPI)
+<img src="VB-5.png" style='width: 170px;'>\
+•	A mobile app developed by a collaborative team to connect volunteers with nonprofits.\
+•	Implements secure login with biometric identification, enhancing user data protection.\
 •	Technologies used: React Native, Expo, Node, and PostgreSQL
 
-
-
+### Harmony Navigator – [Live App](https://bgmcmullen.github.io/harmony-navigator/) | [Source Code](https://github.com/bgmcmullen/harmony-navigator)
+<img src="p1.png" style='width: 170px;'>\
+•	Web app for practicing basic music theory listening skills\
+•	Engages users in interactive listening exercises, enhancing their interval recognition skills.\
+•	Tracks users’ results including their strengths and areas for improvement.\
+•	Technologies used: Solo project built with JavaScript, HTML, and CSS.
 
