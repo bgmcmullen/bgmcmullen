@@ -11,7 +11,7 @@
 </p>
 
 ## SUMMARY
-Software Developer with a PhD in Music Composition and a previous career teaching music theory. Passionate about solving problems with creative solutions and eager to contribute to a collaborative team.
+Software Engineer with a PhD in Music Composition and a previous career teaching music theory. Passionate about solving problems with creative solutions and eager to contribute to a collaborative team.
 ## SKILLS
 ### Languages, Databases and Libraries: 
 JavaScript, TypeScript, Python, , C#, C++, Java, Python, React, React Native, Node.js, PostgreSQL, MongoDB, HTML5, CSS3
