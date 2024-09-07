@@ -10,7 +10,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=bgmcmullen&left_color=green&right_color=red" width="110px" alt="visitor badge"/>
 </p>
 
-## SUMMAR
+## SUMMARY
 Software Engineer with a PhD in Music Composition and a previous career teaching music theory. Passionate about solving problems with creative solutions and eager to contribute to a collaborative team.
 ## SKILLS
 ### Languages, Databases and Libraries: 
