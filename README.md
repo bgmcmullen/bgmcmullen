@@ -16,7 +16,7 @@ Software Engineer with a PhD in Music Composition and a previous career teaching
 ### Languages, Databases and Libraries: 
 JavaScript, TypeScript, Python, , C#, C++, Java, Python, React, React Native, Node.js, PostgreSQL, MongoDB, HTML5, CSS3
 ### Technologies: 
-VS Code, Visual Studio, Git, GitHub, Netlify, Render.com, AWS, Jest
+VS Code, Visual Studio, Git, GitHub, Netlify, Render.com, AWS, Jes
 
 ## Featured Projects
 
