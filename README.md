@@ -11,23 +11,21 @@
 </p>
 
 ## SUMMARY
-Software Engineer with a PhD in Music Composition and a previous career teaching music theory. Passionate about solving problems with creative solutions and eager to contribute to a collaborative team.
-## SKILLS
-### Languages, Databases and Libraries: 
-JavaScript, TypeScript, Python, , C#, C++, Java, Python, React, React Native, Node.js, PostgreSQL, MongoDB, HTML5, CSS3
+AI Engineer & Full-Stack Developer with a PhD in Music Composition from the University of Pennsylvania and a background in education and audio technology. I build human-centered AI tools using PyTorch, LangChain, and RAG pipelines. Skilled in React, Django, and cloud deployment (Azure, AWS), with a focus on making AI both useful and accessible.
 ### Technologies: 
-VS Code, Visual Studio, Git, GitHub, Netlify, Render.com, AWS, Jest
+Langchain, Pytorch, TensorFlow, Numpy, Large Language Models (LLMs), Azure, TypeScript, JavaScript, Python, React, React Native, PostgreSQL, Node, Django
 
 ## Featured Projects
 
-### VolunteerBridge – [Frontend Source Code](https://github.com/TechSpark-Solutions/VolunteerBridgeApp) | [Backend Source Code](https://github.com/TechSpark-Solutions/VolunteerBridge-AuthAPI)
+### Tower Race – [Live App](https://tower-race.netlify.app/) \ [Frontend Source Code](https://github.com/bgmcmullen/tower-race-frontend) | [Backend Source Code](https://github.com/bgmcmullen/tower-race-server)
 <img src="VB-5.png" style='width: 170px;'>\
-•	A mobile app developed by a collaborative team to connect volunteers with nonprofits.\
-•	Implements secure login with biometric identification, enhancing user data protection.\
-•	Technologies used: React Native, Expo, Node, and PostgreSQL
+•	Tower Race is a simple single player game where the play must build and optimize their tower using bricks, competing against an AI opponent.\
+•	Player vs. AI Gameplay: Compete against an AI opponent with a robust strategy for building stable towers.\
+•	Real-Time WebSocket Communication: Smooth, real-time updates of game state.\
+•	Interactive Animations: Animated tower building and dynamic feedback for player actions.\
 
 ### Blackjack+ – [Live App](https://black-jack4445.netlify.app) | [Frontend Source Code](https://github.com/bgmcmullen/BlackJack-plus) | [Backend Source Code](https://github.com/bgmcmullen/BlackJack-plus-server)
 <img src="p1.png" style='width: 170px;'>\
-•	Blackjack+ is a twist on classic blackjack. The goal is to get as close as possible to the target score without going over. Unlike traditional blackjack, the target score changes each round!
-•	The computer dealer uses a PyTorch-based model trained on simulated Blackjack+ scenarios to make decisions during gameplay.
-•	To simulate human-like behavior, the AI plays faster when it’s more confident in its decision, and slower when it’s uncertain
+•	Blackjack+ is a twist on classic blackjack. The goal is to get as close as possible to the target score without going over. Unlike traditional blackjack, the target score changes each round!\
+•	The computer dealer uses a PyTorch-based model trained on simulated Blackjack+ scenarios to make decisions during gameplay.\
+•	To simulate human-like behavior, the AI plays faster when it’s more confident in its decision, and slower when it’s uncertain\
