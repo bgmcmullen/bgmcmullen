@@ -26,7 +26,7 @@ VS Code, Visual Studio, Git, GitHub, Netlify, Render.com, AWS, Jest
 •	Implements secure login with biometric identification, enhancing user data protection.\
 •	Technologies used: React Native, Expo, Node, and PostgreSQL
 
-### Harmony Navigator – [Live App](https://black-jack4445.netlify.app)) | [Frontend Source Code](https://github.com/bgmcmullen/BlackJack-plus) | [Backend Source Code](https://github.com/bgmcmullen/BlackJack-plus-server)
+### Blackjack+ – [Live App](https://black-jack4445.netlify.app) | [Frontend Source Code](https://github.com/bgmcmullen/BlackJack-plus) | [Backend Source Code](https://github.com/bgmcmullen/BlackJack-plus-server)
 <img src="p1.png" style='width: 170px;'>\
 •	Blackjack+ is a twist on classic blackjack. The goal is to get as close as possible to the target score without going over. Unlike traditional blackjack, the target score changes each round!
 •	The computer dealer uses a PyTorch-based model trained on simulated Blackjack+ scenarios to make decisions during gameplay.
