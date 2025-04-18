@@ -17,7 +17,7 @@ Langchain, Pytorch, TensorFlow, Numpy, Large Language Models (LLMs), Azure, Type
 
 ## Featured Projects
 
-### Tower Race – [Live App](https://tower-race.netlify.app/) \ [Frontend Source Code](https://github.com/bgmcmullen/tower-race-frontend) | [Backend Source Code](https://github.com/bgmcmullen/tower-race-server)
+### Tower Race – [Live App](https://tower-race.netlify.app/) | [Frontend Source Code](https://github.com/bgmcmullen/tower-race-frontend) | [Backend Source Code](https://github.com/bgmcmullen/tower-race-server)
 <img src="VB-5.png" style='width: 170px;'>\
 •	Tower Race is a simple single player game where the play must build and optimize their tower using bricks, competing against an AI opponent.\
 •	Player vs. AI Gameplay: Compete against an AI opponent with a robust strategy for building stable towers.\
