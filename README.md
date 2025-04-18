@@ -26,16 +26,8 @@ VS Code, Visual Studio, Git, GitHub, Netlify, Render.com, AWS, Jest
 •	Implements secure login with biometric identification, enhancing user data protection.\
 •	Technologies used: React Native, Expo, Node, and PostgreSQL
 
-### Harmony Navigator – [Live App](https://bgmcmullen.github.io/harmony-navigator/) | [Source Code](https://github.com/bgmcmullen/harmony-navigator)
+### Harmony Navigator – [Live App](https://black-jack4445.netlify.app)) | [Frontend Source Code](https://github.com/bgmcmullen/BlackJack-plus) | [Backend Source Code](https://github.com/bgmcmullen/BlackJack-plus-server)
 <img src="p1.png" style='width: 170px;'>\
-•	Web app for practicing basic music theory listening skills\
-•	Engages users in interactive listening exercises, enhancing their interval recognition skills.\
-•	Tracks users’ results including their strengths and areas for improvement.\
-•	Technologies used: Solo project built with JavaScript, HTML, and CSS.
-
-## Current Projects
-
-### AI-Health-Project – [Repository](https://github.com/bgmcmullen/AI-Health-Project-bgm)
-*Status: Early Development*
-
-I’m currently part of a team developing an AI platform that helps users stay mindful of the foods and drinks they consume. Users will be able upload ingredients in the form of text or images and receive feedback from the AI on the healthiness of their choices.
+•	Blackjack+ is a twist on classic blackjack. The goal is to get as close as possible to the target score without going over. Unlike traditional blackjack, the target score changes each round!
+•	The computer dealer uses a PyTorch-based model trained on simulated Blackjack+ scenarios to make decisions during gameplay.
+•	To simulate human-like behavior, the AI plays faster when it’s more confident in its decision, and slower when it’s uncertain
