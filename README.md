@@ -13,7 +13,7 @@
 ## SUMMARY
 AI Engineer & Full-Stack Developer with a PhD in Music Composition from the University of Pennsylvania and a background in education and audio technology. I build human-centered AI tools using PyTorch, LangChain, and RAG pipelines. Skilled in React, Django, and cloud deployment (Azure, AWS), with a focus on making AI both useful and accessible.
 ### Technologies: 
-Langchain, Pytorch, TensorFlow, Numpy, Large Language Models (LLMs), Azure, TypeScript, JavaScript, Python, React, React Native, PostgreSQL, Node, Django
+Langchain, Pytorch, TensorFlow, Numpy, Large Language Models (LLMs), Azure, TypeScript, JavaScript, Python, React, React Native, PostgreSQL, Node, Djang
 
 ## Featured Projects
 
